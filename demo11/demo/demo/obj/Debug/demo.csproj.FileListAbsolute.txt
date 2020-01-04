@@ -1,0 +1,18 @@
+D:\bài tập\đồ án 1\demo\demo\bin\Debug\demo.exe.config
+D:\bài tập\đồ án 1\demo\demo\bin\Debug\demo.exe
+D:\bài tập\đồ án 1\demo\demo\bin\Debug\demo.pdb
+D:\bài tập\đồ án 1\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
+D:\bài tập\đồ án 1\demo\demo\obj\Debug\demo.Form1.resources
+D:\bài tập\đồ án 1\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\bài tập\đồ án 1\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+D:\bài tập\đồ án 1\demo\demo\obj\Debug\demo.exe
+D:\bài tập\đồ án 1\demo\demo\obj\Debug\demo.pdb
+D:\Download_files\demo11\demo\demo\bin\Debug\demo.exe.config
+D:\Download_files\demo11\demo\demo\bin\Debug\demo.exe
+D:\Download_files\demo11\demo\demo\bin\Debug\demo.pdb
+D:\Download_files\demo11\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
+D:\Download_files\demo11\demo\demo\obj\Debug\demo.Form1.resources
+D:\Download_files\demo11\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\Download_files\demo11\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+D:\Download_files\demo11\demo\demo\obj\Debug\demo.exe
+D:\Download_files\demo11\demo\demo\obj\Debug\demo.pdb
